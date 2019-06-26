@@ -1,0 +1,18 @@
+{
+  "name": "numbersToWords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true",
+    "tapeTest": "node test/numberToWordRefactorTest.js"
+  },
+  "keywords": [],
+  "author": "Foster Haines",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "tape": "^4.10.2"
+  }
+}
